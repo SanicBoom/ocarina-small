@@ -1,0 +1,31 @@
+{
+  "name": "ocarina-small",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "attribution": "Samples from VCSL (https://github.com/sgossner/VCSL)",
+  "samples": {
+    "staccato_a4_staccato0": "staccato/ocarina_A4_staccato0.wav",
+    "staccato_a5_staccato0": "staccato/ocarina_A5_staccato0.wav",
+    "staccato_as5_staccato0": "staccato/ocarina_A#5_staccato0.wav",
+    "staccato_b4_staccato0": "staccato/ocarina_B4_staccato0.wav",
+    "staccato_b5_staccato0": "staccato/ocarina_B5_staccato0.wav",
+    "staccato_c6_staccato0": "staccato/ocarina_C6_staccato0.wav",
+    "staccato_d5_staccato0": "staccato/ocarina_D5_staccato0.wav",
+    "staccato_ds5_staccato0": "staccato/ocarina_D#5_staccato0.wav",
+    "staccato_e5_staccato0": "staccato/ocarina_E5_staccato0.wav",
+    "staccato_f5_staccato0": "staccato/ocarina_F5_staccato0.wav",
+    "staccato_fs5_staccato0": "staccato/ocarina_F#5_staccato0.wav",
+    "staccato_g5_staccato0": "staccato/ocarina_G5_staccato0.wav",
+    "staccato_gs5_staccato0": "staccato/ocarina_G#5_staccato0.wav",
+    "sustain_a5_sustain0": "sustain/ocarina_A5_sustain0.wav",
+    "sustain_as4_sustain0": "sustain/ocarina_A#4_sustain0.wav",
+    "sustain_as5_sustain0": "sustain/ocarina_A#5_sustain0.wav",
+    "sustain_b5_sustain0": "sustain/ocarina_B5_sustain0.wav",
+    "sustain_c5_sustain0": "sustain/ocarina_C5_sustain0.wav",
+    "sustain_d5_sustain0": "sustain/ocarina_D5_sustain0.wav",
+    "sustain_e5_sustain0": "sustain/ocarina_E5_sustain0.wav",
+    "sustain_f5_sustain0": "sustain/ocarina_F5_sustain0.wav",
+    "sustain_g5_sustain0": "sustain/ocarina_G5_sustain0.wav",
+    "sustain_gs5_sustain0": "sustain/ocarina_G#5_sustain0.wav"
+  }
+}
