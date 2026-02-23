@@ -27,5 +27,97 @@
     "sustain_f5_sustain0": "sustain/ocarina_F5_sustain0.wav",
     "sustain_g5_sustain0": "sustain/ocarina_G5_sustain0.wav",
     "sustain_gs5_sustain0": "sustain/ocarina_G#5_sustain0.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "A4",
+      "sample": "staccato_a4_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "sustain_as4_sustain0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "staccato_b4_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "sustain_c5_sustain0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "staccato_d5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#5",
+      "sample": "staccato_ds5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "staccato_e5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "staccato_f5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "staccato_fs5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "staccato_g5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#5",
+      "sample": "staccato_gs5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A5",
+      "sample": "staccato_a5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#5",
+      "sample": "staccato_as5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B5",
+      "sample": "staccato_b5_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "staccato_c6_staccato0",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
